@@ -1,4 +1,4 @@
-package lista2.ex_05;
+package ex_05;
 
 public class Cachorro {
     public String nome;

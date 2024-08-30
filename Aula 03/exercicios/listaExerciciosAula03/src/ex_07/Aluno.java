@@ -1,4 +1,4 @@
-package lista2.ex_07;
+package ex_07;
 
 public class Aluno {
     public String nome;

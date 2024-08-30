@@ -1,6 +1,6 @@
-package lista2.ex_22;
+package ex_22;
 
-import lista2.ex_21.Cozinha;
+
 
 public class main {
     public static void main(String[] args) {

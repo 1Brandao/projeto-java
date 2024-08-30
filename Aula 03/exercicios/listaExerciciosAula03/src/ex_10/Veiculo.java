@@ -1,4 +1,4 @@
-package lista2.ex_10;
+package ex_10;
 
 public class Veiculo {
     public String tipo;

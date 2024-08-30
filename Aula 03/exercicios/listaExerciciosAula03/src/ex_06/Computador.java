@@ -1,4 +1,4 @@
-package lista2.ex_06;
+package ex_06;
 
 public class Computador {
     public String processador;

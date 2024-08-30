@@ -1,4 +1,4 @@
-package lista2.ex_04;
+package ex_04;
 
 public class ContaBancaria {
     public String numeroConta;

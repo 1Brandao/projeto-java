@@ -1,4 +1,4 @@
-package lista2.ex_08;
+package ex_08;
 
 public class Professor {
     public String nome;

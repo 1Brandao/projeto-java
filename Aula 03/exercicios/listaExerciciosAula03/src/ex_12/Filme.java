@@ -1,4 +1,4 @@
-package lista2.ex_12;
+package ex_12;
 
 public class Filme {
     public String titulo;

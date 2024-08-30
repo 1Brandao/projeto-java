@@ -1,4 +1,4 @@
-package lista2.ex_15;
+package ex_15;
 
 public class Jogo {
     public String jogo;

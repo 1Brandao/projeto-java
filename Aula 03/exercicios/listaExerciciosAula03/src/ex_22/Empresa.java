@@ -1,4 +1,4 @@
-package lista2.ex_22;
+package ex_22;
 
 public class Empresa {
     public String nome;

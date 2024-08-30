@@ -1,6 +1,4 @@
-package lista2.ex_19;
-
-import lista2.ex_17.Animal;
+package ex_19;
 
 public class main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package lista2.ex_17;
+package ex_17;
 
 public class Animal {
     public String especie;

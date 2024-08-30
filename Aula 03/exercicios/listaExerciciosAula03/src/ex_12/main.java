@@ -1,6 +1,6 @@
-package lista2.ex_12;
+package ex_12;
 
-import lista2.ex_11.Cidade;
+
 
 public class main {
     public static void main(String[] args) {

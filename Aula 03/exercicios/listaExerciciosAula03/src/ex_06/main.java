@@ -1,6 +1,4 @@
-package lista2.ex_06;
-
-import lista2.ex_05.Cachorro;
+package ex_06;
 
 public class main {
     public static void main(String[] args) {

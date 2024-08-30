@@ -1,6 +1,5 @@
-package lista2.ex_20;
+package ex_20;
 
-import lista2.ex_19.LivroDigital;
 
 public class main {
     public static void main(String[] args) {

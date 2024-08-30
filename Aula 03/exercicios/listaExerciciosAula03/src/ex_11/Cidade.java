@@ -1,4 +1,4 @@
-package lista2.ex_11;
+package ex_11;
 
 public class Cidade {
     public String nome;

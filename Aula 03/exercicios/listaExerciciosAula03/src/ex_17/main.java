@@ -1,6 +1,4 @@
-package lista2.ex_17;
-
-import lista2.ex_16.Loja;
+package ex_17;
 
 public class main {
     public static void main(String[] args) {

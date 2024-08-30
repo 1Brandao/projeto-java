@@ -1,6 +1,5 @@
-package lista2.ex_07;
+package ex_07;
 
-import lista2.ex_06.Computador;
 
 public class main {
     public static void main(String[] args) {

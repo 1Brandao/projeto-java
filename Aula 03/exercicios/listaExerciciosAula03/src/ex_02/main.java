@@ -1,10 +1,8 @@
-package lista2.ex_02;
-
-import lista2.ex_01.Livro;
+package ex_02;
 
 public class main {
     public static void main(String[] args){
-        Celular celular = new Celular("Samsung", "Galaxy S20", 5000);
+        Celular celular = new Celular("Apple", "Iphone 13", 3240);
 
         celular.ligar();
         celular.desligar();

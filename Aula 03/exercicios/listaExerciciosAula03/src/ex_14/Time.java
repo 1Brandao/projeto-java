@@ -1,4 +1,4 @@
-package lista2.ex_14;
+package ex_14;
 
 public class Time {
     public String nome;

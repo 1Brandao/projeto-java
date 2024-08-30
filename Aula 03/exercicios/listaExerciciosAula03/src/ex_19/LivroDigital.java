@@ -1,4 +1,4 @@
-package lista2.ex_19;
+package ex_19;
 
 public class LivroDigital {
     public String titulo;

@@ -1,6 +1,5 @@
-package lista2.ex_14;
+package ex_14;
 
-import lista2.ex_12.Filme;
 
 public class main {
     public static void main(String[] args) {

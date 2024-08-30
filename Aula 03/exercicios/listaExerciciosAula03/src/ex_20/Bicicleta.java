@@ -1,4 +1,4 @@
-package lista2.ex_20;
+package ex_20;
 
 public class Bicicleta {
     public String marca;

@@ -1,6 +1,5 @@
-package lista2.ex_15;
+package ex_15;
 
-import lista2.ex_14.Time;
 
 public class main {
     public static void main(String[] args) {

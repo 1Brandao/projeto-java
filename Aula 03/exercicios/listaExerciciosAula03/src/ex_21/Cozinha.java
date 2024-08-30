@@ -1,4 +1,4 @@
-package lista2.ex_21;
+package ex_21;
 
 public class Cozinha {
     public String tipo;

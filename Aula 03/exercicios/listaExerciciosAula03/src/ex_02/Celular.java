@@ -1,4 +1,4 @@
-package lista2.ex_02;
+package ex_02;
 
 public class Celular {
     public String marca;

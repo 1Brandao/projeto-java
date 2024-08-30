@@ -1,4 +1,4 @@
-package lista2.ex_16;
+package ex_16;
 
 public class Loja {
     public String nome;

@@ -1,6 +1,4 @@
-package lista2.ex_03;
-
-import lista2.ex_02.Celular;
+package ex_03;
 
 public class main {
     public static void main(String[] args){
