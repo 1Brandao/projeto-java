@@ -5,6 +5,7 @@ public class main {
         Livro livro = new Livro("Jogos Vorazes", "Suzanne Collins", 240);
 
         livro.abrirLivro(livro.aberto);
-        livro.ler(livro.paginaAtual, livro.nrPaginas);
+        livro.ler();
+        System.out.println(livro.toString());
     }
 }
