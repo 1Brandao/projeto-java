@@ -1,4 +1,4 @@
-package ex_01;
+package lista2.ex_01;
 
 // Crie uma classe chamada Livro com atributos como titulo, autor,
 // e numeroDePaginas. Adicione métodos para abrir o livro e ler uma página.

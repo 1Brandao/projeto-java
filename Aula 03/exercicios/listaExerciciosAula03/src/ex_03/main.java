@@ -1,4 +1,4 @@
-package ex_03;
+package lista2.ex_03;
 
 public class main {
     public static void main(String[] args){

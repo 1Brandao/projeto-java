@@ -1,4 +1,4 @@
-package ex_02;
+package lista2.ex_02;
 
 // Defina uma classe Celular com atributos como marca, modelo, e 
 // capacidadeBateria. Adicione métodos para ligar e desligar o celular.
