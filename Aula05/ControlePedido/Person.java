@@ -6,6 +6,7 @@ public class Person {
     private String name;
     private Integer age;
     private List<Address> address;
+    private Person filiation;
 
     public Person(String name, Integer age, List<Address> address) {
         this.name = name;
