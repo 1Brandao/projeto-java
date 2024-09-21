@@ -1,31 +1,20 @@
-package Exercicio01;
+package ControlePedido;
 
 public class Address {
     private String street;
     private String block;
     private String city;
-    private String uf;
+    private String cep;
 
-    public Address(String street, String block, String city, String uf) {
+    public Address(String street, String block, String city, String cep) {
         this.street = street;
         this.block = block;
         this.city = city;
-        this.uf = uf;
+        this.cep = cep;
     }
 
-    public String getStreet() {
-        return street;
-    }
-
-    public String getBlock() {
-        return block;
-    }
-
-    public String getCity() {
-        return city;
-    }
-
-    public String getUf() {
-        return uf;
+    @Override
+    public String toString() {
+        return street + ", " + block + ", " + city + ", " + cep;
     }
 }

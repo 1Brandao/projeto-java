@@ -1,33 +1,20 @@
-package Exercicio01;
-import java.util.ArrayList;
-import java.util.List;
+package ControlePedido;
 
 public class Person {
     private String name;
-    private Integer age;
-    private List<Address> address;
-    private Person filiation;
+    private Address address;
 
-    public Person(String name, Integer age, List<Address> address) {
+    public Person(String name, Address address) {
         this.name = name;
-        this.age = age;
-        this.address = new ArrayList<>();
+        this.address = address;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public Integer getAge() {
-        return age;
-    }
-
-    public List<Address> getAddress() {
+    public Address getAddress() {
         return address;
     }
 
-    public List<Address> addAddress(Address address) {
-        this.address.add(address);
-        return addAddress();
+    @Override
+    public String toString() {
+        return name + ", Endereço: " + address;
     }
 }
